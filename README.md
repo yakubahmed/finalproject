@@ -1,1 +1,1 @@
-# finalproject
+# cs50m-final-project
